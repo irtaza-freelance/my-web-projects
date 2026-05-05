@@ -1,8 +1,13 @@
 # BMI Calculator
 
-A simple web app to calculate Body Mass Index.
+A simple web application to calculate Body Mass Index (BMI) using height and weight.
 
 ## Features:
-- Input height and weight
-- Calculates BMI
-- Shows result instantly
+- User input for height and weight
+- Calculates BMI instantly
+- Displays result on screen
+
+## Technologies Used:
+- HTML
+- CSS
+- JavaScript
