@@ -11,3 +11,5 @@ This project shows keyboard input details when a user presses any key.
 - HTML
 - CSS
 - JavaScript
+
+- This project helped me understand DOM manipulation and user input handling in JavaScript.
